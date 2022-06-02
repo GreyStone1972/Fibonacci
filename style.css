@@ -1,0 +1,88 @@
+.body{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+
+.data{
+	margin:25px auto;
+	width: 500px;
+	border: solid 2px;  
+	border-radius: 10px;
+	padding: 25px;
+	text-align: center;
+	background-color: rgb(87, 175, 39);
+}
+
+.choose-expenses{
+	width:300px;
+	margin: 5px auto;
+	display:flex;
+	justify-content: center;
+	margin-top:20px;
+	font-family: Bookman Old Style;
+	font-size: 17px;
+	
+}
+
+.start{
+	margin: 30px;
+	width: 150px;
+	height: 35px;
+	background-color: rgb(98, 125, 39);
+	border-radius: 5px;
+	font-family: Bookman Old Style;
+	font-weight: bold;
+	color: rgb(256, 236, 26) ;
+	
+}
+
+.start2{
+	margin: 10px;
+	width: 200px;
+	height: 35px;
+	background-color: rgb(98, 125, 39);
+	border-radius: 5px;
+	font-family: Bookman Old Style;
+	font-weight: bold;
+	color: rgb(256, 236, 26) ;
+	
+}
+
+.start3{
+	margin: 30px;
+	width: 60px;
+	height: 35px;
+	background-color: rgb(139,0,0);
+	border-radius: 5px;
+	font-family: Bookman Old Style;
+	font-weight: bold;
+	color: rgb(256, 236, 26) ;
+	
+}
+
+.choose-sum{
+	width: 250px;
+	height: 35px;
+	box-shadow: 0px 0px 25px  rgba(256, 236, 26, .9);
+}
+
+.hidden{
+	display: none;
+}
+
+.showArray{
+	margin:25px;
+	width: 300px;
+	height: 150px;
+	border: solid 2px;  
+	border-radius: 10px;
+	text-align: center;
+	background-color: rgb(155, 125, 12);
+}
+
+.flexy{
+	display:flex;
+	width: 100%;
+	justify-content: center;
+}
